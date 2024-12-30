@@ -1,0 +1,6 @@
+# 区块链游戏卡牌-Hero Cat 英雄猫NFT盲盒质押对战
+
+区块链游戏卡牌-HeroCat英雄猫NFT盲盒质押对战<br>演示网址：example.com/login账号：2851703955@example.com：123456aa<br>亲爱的英雄猫metaverse玩家，感谢您对项目的支持，社区和游戏的发展离不开所有社区成员，我们共同努力发展壮大，关于本次公测的庆祝活动，HEROCATGAMEFI双采奖金发布说明。<br>关于游戏中双重挖掘奖金事件描述<br>采矿奖励是一个模块：作战系统<br>采矿奖金B模块：矿山<br>双重采矿奖金开放时间：2024/12/30-2024/01/01（美国东部时间）<br>请注意，以上时间是美国东部时间，请根据当地时间对应双重采矿奖金。<br>影响游戏战斗系统HCT输出的因素：<br>网络中的英雄数量、被烧毁的hct数量、英雄等级、英雄星、英雄等级、英雄稀有性、英雄的总力量以及随机运气值都会影响战斗系统中获得的hct和HCU。<br>影响煤矿HCT产量的因素：<br>矿工猫的数量、烧伤的hct数量、矿工猫的级别、矿工猫的星级、矿工猫的稀有性、矿工猫的总计算能力以及随机运气值都会影响在矿井中获得的hct和HCU。<br>笔记：<br>example.com。<br>example.com，战斗系统和矿场输出将恢复正常输出。<br>售前须知<br>example.com，确保是您所需产品；<br>example.com；<br>example.com，技术团队会给予修复，请勿以此作为退款理由；<br>example.com，请联系客服了解所需环境及服务器；<br>example.com，不包含外部接口对接、运维和新增需求，如有其他需求请联系客服；<br>example.com，一经发售，概不退款，本公司承诺系统代码无缺失、无后门，存在BUG即时修复，请买家悉知；<br>example.com,下单即默认已阅读并同意以上条款；<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/yLmSa" style="color: red;">https://mega-file.org/yLmSa</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
